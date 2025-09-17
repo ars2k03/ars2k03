@@ -10,7 +10,9 @@
 
 <div align="center">
 
-[![Github](https://img.shields.io/badge/Github-ARS-orange?style=for-the-badge&logo=github)](https://github.com/ars2k03)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-red?logo=whatsapp&logoColor=white&logoSize=35&style=for-the-badge)](https://wa.me/8801771259478)
+
+
 </div>
 
 
