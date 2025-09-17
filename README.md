@@ -1,3 +1,21 @@
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=consolas&weight=900&pause=2000&color=27B655&center=true&vCenter=true&width=435&height=20&lines=Hi%2C+I+am+A+R+S+Arafat" alt="Typing SVG" /></a>
+</p>
+
+<p align="center"><img src="inferiorak.gif" /></p>
+
+<h3 align="center">
+    $ Contact Me
+</h3>
+
+<div align="center">
+
+[![Github](https://img.shields.io/badge/Github-ARS-orange?style=for-the-badge&logo=github)](https://github.com/ars2k03)
+</div>
+
+
+
 # 💫 Hi 👋, I'm A R S Arafat
 **I love building, I love breaking, and I love learning 🚀💻🔐**
 
