@@ -49,10 +49,22 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
 </div>
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ars2k03&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ars2k03&theme=github_dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ars2k03&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+### 🛠️ Languages & Tools:
+- **C** ☕
+- **C++** ⚡
+- **Java** ☕
+- **JavaScript** ⚡
+- **HTML5** 🌐
+- **CSS3** 🎨
+
+
+### 📊 Languages Usage
+- ![Java](https://img.shields.io/badge/Java-60%25-orange?style=flat&logo=java)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow?style=flat&logo=javascript)
+- ![HTML](https://img.shields.io/badge/HTML-10%25-red?style=flat&logo=html5)
+- ![CSS](https://img.shields.io/badge/CSS-10%25-blue?style=flat&logo=css3)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ars2k03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
