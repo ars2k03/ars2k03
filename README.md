@@ -33,12 +33,117 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
 
 
 
-# 💻 Skills:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+## 💻 Skills
+
+### 🧠 Programming Languages
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br>C
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/><br>C++
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Web Development
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🎨 Design & Editing
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/96/000000/canva.png" width="50"/><br>Canva
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/96/000000/filmora.png" width="50"/><br>Filmora
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/><br>Photoshop
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Tools & Platforms
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📂 Office & Productivity
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/96/000000/microsoft-word-2019.png" width="50"/><br>Word
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/96/000000/microsoft-powerpoint-2019.png" width="50"/><br>PowerPoint
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/96/000000/microsoft-excel-2019.png" width="50"/><br>Excel
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Extra Skills
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/96/000000/windows-10.png" width="50"/><br>.exe Build
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/fluency/96/000000/steam.png" width="50"/><br>Gaming
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ars2k03) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ars2k03) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arafatsohan2003@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ars2k03)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ars2k03)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ars2k03)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arafatsohan2003@gmail.com)
 
 
 
@@ -47,23 +152,6 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
-
-
-### 🛠️ Languages & Tools:
-- **C** ☕
-- **C++** ⚡
-- **Java** ☕
-- **JavaScript** ⚡
-- **HTML5** 🌐
-- **CSS3** 🎨
-
-
-### 📊 Languages Usage
-- ![Java](https://img.shields.io/badge/Java-60%25-orange?style=flat&logo=java)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-20%25-yellow?style=flat&logo=javascript)
-- ![HTML](https://img.shields.io/badge/HTML-10%25-red?style=flat&logo=html5)
-- ![CSS](https://img.shields.io/badge/CSS-10%25-blue?style=flat&logo=css3)
 
 
 ## 🏆 GitHub Trophies
