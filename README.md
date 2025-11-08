@@ -70,7 +70,8 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
   </tr>
 </table>
 
----
+📱 Mobile App Development
+<table> <tr> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/><br>Android Studio </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/><br>Kotlin </td> <td align="center" width="120"> <img src="https://img.icons8.com/fluency/96/000000/android-os.png" width="50"/><br>APK Build </td> </tr> </table>
 
 ### 🎨 Design & Editing
 <table>
@@ -143,8 +144,9 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ars2k03)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ars2k03)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ars2k03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ars2k03)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?logo=x&logoColor=white)](https://x.com/ars_2k03)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arafatsohan2003@gmail.com)
-
 
 
 <!-- Snake Game Repo View -->
