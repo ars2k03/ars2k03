@@ -22,8 +22,8 @@
 
 Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Exploring Development & Cyber Security
-- 🌱 **I’m currently learning:** Development & Cyber Security
+- 🔭 **I’m currently working on:** Exploring Development
+- 🌱 **I’m currently learning:** Development
 - 👯 **I’m looking to collaborate on:** Open-source projects & learning communities
 - 🤔 **I’m looking for help with:** Real-world projects to improve my skills
 - 💬 **Ask me about:** Collaboration, Tech Support, Learning Resources
@@ -47,33 +47,9 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
-    </td>
   </tr>
 </table>
 
----
-
-### 🌐 Web Development
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
-    </td>
-  </tr>
-</table>
-
----
-
-📱 Mobile App Development
-<table> <tr> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/><br>Android Studio </td> <td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/><br>Kotlin </td> <td align="center" width="120"> <img src="https://img.icons8.com/fluency/96/000000/android-os.png" width="50"/><br>APK Build </td> </tr> </table>
 
 ---
 
@@ -86,9 +62,6 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
     <td align="center" width="120">
       <img src="https://img.icons8.com/fluency/96/000000/filmora.png" width="50"/><br>Filmora
     </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="50"/><br>Photoshop
-    </td>
   </tr>
 </table>
 
@@ -98,13 +71,7 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
-    </td>
-    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux
     </td>
   </tr>
 </table>
@@ -128,9 +95,6 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
 ### ⚡ Extra Skills
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/fluency/96/000000/windows-10.png" width="50"/><br>.exe Build
-    </td>
     <td align="center" width="120">
       <img src="https://img.icons8.com/fluency/96/000000/steam.png" width="50"/><br>Gaming
     </td>
