@@ -22,14 +22,14 @@
 
 Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Exploring Development
-- 🌱 **I’m currently learning:** Development
-- 👯 **I’m looking to collaborate on:** Open-source projects & learning communities
-- 🤔 **I’m looking for help with:** Real-world projects to improve my skills
-- 💬 **Ask me about:** Collaboration, Tech Support, Learning Resources
+- 🔭 **I’m currently working on:** Flutter mobile app development
+- 🌱 **I’m currently learning:** Backend development with JavaScript (Node.js) to become a Full-Stack Flutter Developer
+- 👯 **I’m looking to collaborate on:** Open-source Flutter & Full-Stack projects
+- 🤔 **I’m looking for help with:** Real-world projects to sharpen my development skills
+- 💬 **Ask me about:** Flutter, Dart, Mobile UI/UX & Backend fundamentals
 - 📫 **How to reach me:** arafatsohan2003@gmail.com
-- 😄 **Pronouns:** Arafat
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I love tech, and I enjoy turning ideas into real-world apps 🚀
 
 
 
@@ -47,8 +47,64 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
     </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/><br>Dart
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/><br>Kotlin
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/><br>Python
+    </td>
   </tr>
 </table>
+
+---
+
+### 📱 App Development
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/><br>Flutter
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/><br>Dart
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/><br>Android Studio
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50"/><br>Kotlin
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" width="50"/><br>Jetpack Compose
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🌐 Web Development
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML5
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS3
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
+    </td>
+  </tr>
+</table>
+
 
 
 ---
@@ -71,10 +127,20 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
 <table>
   <tr>
     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
+    </td>
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux
+    </td>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="50"/><br>AI-Assisted Development
     </td>
   </tr>
 </table>
+
 
 ---
 
