@@ -20,17 +20,16 @@
 # 💫 Hi 👋, I'm A R S Arafat
 **I love building, I love breaking, and I love learning 🚀💻🔐**
 
-Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+📫 Reach me at: **arafatsohan2003@gmail.com** Open to collaboration, open-source contributions, and exciting project opportunities.
 
-- 🔭 **I’m currently working on:** Flutter mobile app development
-- 🌱 **I’m currently learning:** Backend development with JavaScript (Node.js) to become a Full-Stack Flutter Developer
-- 👯 **I’m looking to collaborate on:** Open-source Flutter & Full-Stack projects
-- 🤔 **I’m looking for help with:** Real-world projects to sharpen my development skills
-- 💬 **Ask me about:** Flutter, Dart, Mobile UI/UX & Backend fundamentals
+- 🔭 **I’m currently working on:** Cross-platform applications with Flutter & Backend Development with Express.js
+- 🌱 **I’m currently learning:** PostgreSQL & MongoDB with Express.js & TypeScript
+- 👯 **I’m looking to collaborate on:** Open-source Flutter & Backend projects
+- 🤔 **I’m looking for help with:** Building scalable real-world applications and backend systems
+- 💬 **Ask me about:** Flutter, Dart, Node.js, Express.js & Backend fundamentals
 - 📫 **How to reach me:** arafatsohan2003@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love tech, and I enjoy turning ideas into real-world apps 🚀
-
 
 
 ## 💻 Skills
@@ -38,6 +37,12 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
 ### 🧠 Programming Languages
 <table>
   <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+    </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/><br>C
     </td>
@@ -48,51 +53,93 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br>Java
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
-    </td>
-    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/><br>Dart
     </td>
   </tr>
 </table>
 
 ---
+### 🎨 Frontend Development
 
-### 📱 App Development
 <table>
   <tr>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/><br>Flutter
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/><br>Dart
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML5
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/><br>Android Studio
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS3
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Backend Development
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=express" width="50"/><br>Express.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50"/><br>TypeScript
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Database
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/><br>Firebase
     </td>
   </tr>
 </table>
 
 ---
 
-### 🌐 Web Development
+### 🛠 Tools & Platforms
 <table>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br>HTML5
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/><br>Postman
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS3
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/><br>VS Code
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/><br>Android Studio
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="50"/><br>AI Tools
     </td>
   </tr>
 </table>
-
 
 
 ---
@@ -111,54 +158,9 @@ Email Me 👉 ✉️ **arafatsohan2003@gmail.com** For Collaboration/Project or 
 
 ---
 
-### 🛠 Tools & Platforms
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br>Git
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br>GitHub
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br>Linux
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="50"/><br>AI-Assisted Development
-    </td>
-  </tr>
-</table>
-
-
----
-
-### 📂 Office & Productivity
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/fluency/96/000000/microsoft-word-2019.png" width="50"/><br>Word
-    </td>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/fluency/96/000000/microsoft-powerpoint-2019.png" width="50"/><br>PowerPoint
-    </td>
-  </tr>
-</table>
-
----
-
-### ⚡ Extra Skills
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://img.icons8.com/fluency/96/000000/steam.png" width="50"/><br>Gaming
-    </td>
-  </tr>
-</table>
-
-
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ars2k03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ars2k05)
 [![X](https://img.shields.io/badge/Twitter(X)-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ars_2k03)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arafatsohan2003@gmail.com)
 
