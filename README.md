@@ -133,8 +133,6 @@
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/><br>Android Studio
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <img src="https://img.icons8.com/color/96/artificial-intelligence.png" width="50"/><br>AI Tools
     </td>
