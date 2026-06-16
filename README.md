@@ -22,11 +22,11 @@
 
 📫 Reach me at: **arafatsohan2003@gmail.com** Open to collaboration, open-source contributions, and exciting project opportunities.
 
-- 🔭 **I’m currently working on:** Cross-platform applications with Flutter & Backend Development with Express.js
-- 🌱 **I’m currently learning:** PostgreSQL & MongoDB with Express.js & TypeScript
+- 🔭 **I’m currently working on:** Backend Development with Express.js & Cross-platform applications with Flutter
+- 🌱 **I’m currently learning:** Modern Backend Engineering
 - 👯 **I’m looking to collaborate on:** Open-source Flutter & Backend projects
 - 🤔 **I’m looking for help with:** Building scalable real-world applications and backend systems
-- 💬 **Ask me about:** Flutter, Dart, Node.js, Express.js & Backend fundamentals
+- 💬 **Ask me about:** Scalable Backend Systems, API Development, Database Design & Full-Stack Engineering
 - 📫 **How to reach me:** arafatsohan2003@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I love tech, and I enjoy turning ideas into real-world apps 🚀
@@ -72,6 +72,7 @@
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br>CSS3
     </td>
+    
   </tr>
 </table>
 
@@ -94,7 +95,7 @@
   </tr>
 </table>
 
-### 🗄️ Database
+### 🗄️ Databases & ORM
 
 <table>
   <tr>
@@ -102,7 +103,13 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/><br>PostgreSQL
     </td>
     <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/><br>Redis
+    </td>
+    <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50"/><br>Prisma
     </td>
     <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/><br>Firebase
