@@ -1,16 +1,79 @@
-## Hi there 👋
+# 🖥️ A R S
+
+```text
+┌──(ars㉿github)-[~/profile]
+└─$ whoami
+```
+
+A developer focused on building modern applications  
+and scalable backend systems.
+
+---
+
+## 💻 Tech Stack
+
+```text
+┌──(ars㉿github)-[~/profile]
+└─$ cat tech_stack.txt
+```
+
+```text
+Languages
+├── TypeScript
+├── JavaScript
+├── Dart
+└── SQL
+
+Backend
+├── Node.js
+├── Express.js
+└── Nest.js
+
+Frontend & Mobile
+├── Next.js
+└── Flutter
+
+Databases
+├── PostgreSQL
+├── MongoDB
+└── Redis
+
+ORM
+└── Prisma ORM
+
+Tools
+├── Git
+├── GitHub
+└── Postman
+```
+
+---
+
+## 🤖 Currently Exploring
+
+```text
+┌──(ars㉿github)-[~/learning]
+└─$ ./explore.sh
+```
+
+```text
+> Modern Backend Engineering
+> Scalable System Design
+> Better Architecture
+> Clean & Maintainable Code
+```
+
+---
+
+
+```text
+┌──(ars㉿github)-[~/profile]
+└─$ echo "Keep building. Keep learning."
+
+Keep building. Keep learning.
+```
 
 <!--
-**ars2k03/ars2k03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Status: Online 🟢
+Mission: Build something meaningful.
 -->
