@@ -32,20 +32,6 @@ and turning complex ideas into production-ready software.
 
 ---
 
-## 🎓 Education
-
-```text
-┌──(ars㉿github)-[~/profile]
-└─$ cat education.log
-```
-
-```text
-[Oct 2024 - Present]  BSc in Computer Science & Engineering
-                      Rajshahi University of Engineering & Technology (RUET)
-```
-
----
-
 ## 🚀 Projects
 
 ```text
