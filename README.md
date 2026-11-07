@@ -4,12 +4,17 @@
 ┌──(ars㉿github)-[~/profile]
 └─$ whoami
 
-Arafat Rahman
+Md Arafat Rahman Sohan (ARS)
 Full-Stack Software Engineer · Rajshahi, Bangladesh
+Founding Engineer @ Chakri AI & JoldiMart
+CSE Undergraduate @ RUET
+Status: Available for hire 🟢
 ```
 
 Engineering scalable systems, building seamless digital experiences,  
 and turning complex ideas into production-ready software.
+
+🌐 **Portfolio:** [ars2k03.tech](https://ars2k03.tech) · 📄 **Resume:** [View PDF](https://ars2k03.tech/resume.pdf)
 
 ---
 
@@ -21,9 +26,22 @@ and turning complex ideas into production-ready software.
 ```
 
 ```text
-[Since 2026]      Full-Stack Software Engineer   @ LuminexLabs   (Part-time · Remote)
-[Since Sep 2026]  Founding Full-Stack Engineer   @ JoldiMart     (Remote)
-[Since Jun 2026]  Founding Full-Stack Engineer   @ Chakri.ai     (Remote)
+[Since Sep 2026]  Founding Full-Stack Engineer   @ JoldiMart   (Remote)
+[Since Jun 2026]  Founding Full-Stack Engineer   @ Chakri AI   (Remote)
+```
+
+---
+
+## 🎓 Education
+
+```text
+┌──(ars㉿github)-[~/profile]
+└─$ cat education.log
+```
+
+```text
+[Oct 2024 - Present]  BSc in Computer Science & Engineering
+                      Rajshahi University of Engineering & Technology (RUET)
 ```
 
 ---
@@ -35,12 +53,12 @@ and turning complex ideas into production-ready software.
 └─$ ls -l
 ```
 
-| Project | What it is | Link |
+| Project | What it is | Links |
 |---|---|---|
-| **WA Gateway** | Free public API for WhatsApp OTP verification | [wa.ars2k03.online](https://wa.ars2k03.online) |
-| **Chakri.ai** | AI-powered hiring platform for Bangladesh | [chakriai.com](https://chakriai.com) |
-| **JoldiMart** | 10-minute grocery delivery in Dhaka | [joldimart.com](https://joldimart.com) |
-| **ars-facebook-auth** | npm package: Facebook login for Node.js in two lines | [npm](https://www.npmjs.com/package/ars-facebook-auth) |
+| **WA Gateway** | Free public API for adding WhatsApp OTP verification to any website or app | [Live](https://wa.ars2k03.tech) · [API Docs](https://wa.ars2k03.tech/docs) |
+| **Chakri AI** | AI-powered hiring platform for the Bangladesh job market, in public beta | [Live](https://chakriai.com) |
+| **JoldiMart** | Quick-commerce startup delivering groceries in Dhaka within 10 minutes | [Live](https://joldimart.com) |
+| **ars-facebook-auth** | Add Facebook login to any Node.js backend in two lines of code | [npm](https://www.npmjs.com/package/ars-facebook-auth) · [Source](https://github.com/ars2k03/ars-facebook-auth) |
 
 ---
 
@@ -52,28 +70,28 @@ and turning complex ideas into production-ready software.
 ```
 
 ```text
-Languages
+Core Languages
 ├── TypeScript
 ├── JavaScript
 ├── Dart
 └── SQL
 
 Backend
+├── NestJS
 ├── Node.js
-├── Express.js
-└── NestJS
+└── Express.js
 
 Frontend & Mobile
 ├── Next.js
 ├── React
 └── Flutter
 
-Databases
+Databases & In-Memory Stores
 ├── PostgreSQL
 ├── MongoDB
 └── Redis
 
-ORM
+Data Modeling & ORM
 └── Prisma ORM
 
 DevOps & CI/CD
@@ -84,7 +102,7 @@ Cloud & Platforms
 ├── Cloudflare
 └── Supabase
 
-Tools
+Tools & Environment
 ├── Git
 └── Linux
 ```
@@ -115,8 +133,10 @@ Tools
 ```
 
 ```text
+Website   →  ars2k03.tech
 Email     →  arafatsohan2003@gmail.com
 LinkedIn  →  linkedin.com/in/ars2k05
+GitHub    →  github.com/ars2k03
 X         →  x.com/ars_2k03
 ```
 
@@ -130,6 +150,6 @@ Keep building. Keep learning.
 ```
 
 <!--
-Status: Online 🟢
+Status: Available for hire 🟢
 Mission: Build something meaningful.
 -->
