@@ -7,7 +7,6 @@
 Md Arafat Rahman Sohan (ARS)
 Full-Stack Software Engineer · Rajshahi, Bangladesh
 Founding Engineer @ Chakri AI & JoldiMart
-CSE Undergraduate @ RUET
 Status: Available for hire 🟢
 ```
 
